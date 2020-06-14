@@ -1,0 +1,16 @@
+{
+  "name": "react-native-text-editor-mentions",
+  "version": "1.0.0",
+  "description": "React native text editor with mentions. Tested with iOs and Android. Fork of https://github.com/mrazadar/react-native-mentions-editor",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "metro-react-native-babel-preset": "^0.59.0",
+    "react-native-fast-image": "^8.1.5"
+  },
+  "peerDependencies": {
+    "prop-types": "^15.7.2",
+    "react": "^16.13.1",
+    "react-native": "^0.62.2"
+  }
+}
